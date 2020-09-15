@@ -1,3 +1,3 @@
 # SimpleMachineLeaningProjects
-Multiple Machine Learning applications to Learn the fundamental algorithms. 
-Some uses Scikit-Learn, others uses Keras and Jupyter Notebook. 
+Multiple Machine Learning applications to Learn fundamental algorithms. 
+Some use Scikit-Learn, others use Keras and Jupyter Notebook.
